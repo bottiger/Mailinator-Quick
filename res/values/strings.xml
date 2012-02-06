@@ -3,5 +3,7 @@
 
     <string name="hello">No E-mail</string>
     <string name="app_name">Mailinator</string>
+    <string name="copyButton">Copy E-mail</string>
+    <string name="newMailButton">New E-mail</string>
 
 </resources>
